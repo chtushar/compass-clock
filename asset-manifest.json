@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/compass-clock/static/css/main.18af3af1.chunk.css",
+    "main.css": "/compass-clock/static/css/main.4de21f4b.chunk.css",
     "main.js": "/compass-clock/static/js/main.738e0a89.chunk.js",
     "main.js.map": "/compass-clock/static/js/main.738e0a89.chunk.js.map",
     "runtime-main.js": "/compass-clock/static/js/runtime-main.b124a6bd.js",
@@ -8,15 +8,15 @@
     "static/js/2.71a0948a.chunk.js": "/compass-clock/static/js/2.71a0948a.chunk.js",
     "static/js/2.71a0948a.chunk.js.map": "/compass-clock/static/js/2.71a0948a.chunk.js.map",
     "index.html": "/compass-clock/index.html",
-    "precache-manifest.11a685fe69a1223dc052d1f15d463d1f.js": "/compass-clock/precache-manifest.11a685fe69a1223dc052d1f15d463d1f.js",
+    "precache-manifest.8031812132c2dea9b4f5b985fd6eb1c9.js": "/compass-clock/precache-manifest.8031812132c2dea9b4f5b985fd6eb1c9.js",
     "service-worker.js": "/compass-clock/service-worker.js",
-    "static/css/main.18af3af1.chunk.css.map": "/compass-clock/static/css/main.18af3af1.chunk.css.map",
+    "static/css/main.4de21f4b.chunk.css.map": "/compass-clock/static/css/main.4de21f4b.chunk.css.map",
     "static/js/2.71a0948a.chunk.js.LICENSE": "/compass-clock/static/js/2.71a0948a.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.b124a6bd.js",
     "static/js/2.71a0948a.chunk.js",
-    "static/css/main.18af3af1.chunk.css",
+    "static/css/main.4de21f4b.chunk.css",
     "static/js/main.738e0a89.chunk.js"
   ]
 }

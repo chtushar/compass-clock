@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/compass-clock/precache-manifest.11a685fe69a1223dc052d1f15d463d1f.js"
+  "/compass-clock/precache-manifest.8031812132c2dea9b4f5b985fd6eb1c9.js"
 );
 
 self.addEventListener('message', (event) => {
